@@ -1,23 +1,27 @@
-## 👋 Hi there, #
+Mark Cyd Banner
+Night Coding
 
-I'm a BUIDLer who loves solving tough problems and finishing projects. I enjoy making things, improving how easy they are to use, and sharing them with more people.
+Hey there! I'm Mark Cyd
+👨🏻‍💻  About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently relearning Trinity Html Css JS.
+🌱  I'm on track for Full stack php with laravel.
+✍️  In my free time, I enjoy watching news about new tech in web dev and tech support as hobbies/side hustles.
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+✉️  You can shoot me an email at acegear@gmail.com I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
-If you have an idea you want to create, let's chat!
+Night Coding
 
-I'm a founder and CEO of [S
---- 
 
-## 🌌 Get in touch 
+🛠  Tech Stack
+JavaScript C  C++  Vbs
+React  Node.js  Bootstrap
+HTML  CSS  Git  GitHub  
+Visual Studio Code  
 
-- Sy
-- Web: 
-- Blog: [
-- Twitter: 
-  
---- 
+⚙️  GitHub Analytics
+ 
 
-## 📕 Latest Blog Posts 
-
-<!-- BLOG-POST-LIST:START -->
--
-<!-- BLOG-POST-LIST:END -->
+🤝🏻  Connect with Me
+      
